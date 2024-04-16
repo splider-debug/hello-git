@@ -5,3 +5,4 @@ hello git!
 hello git!
 this is a new line.
 hot-fix!!
+test conflict merge MASTER.
