@@ -8,3 +8,4 @@ hot-fix!!
 test conflict merge MASTER.
 test conflict merge HOT-FIX.
 **test updating online
+I have generate an SSH Key.
